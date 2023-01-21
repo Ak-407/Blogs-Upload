@@ -16,11 +16,16 @@
 }
 
 .footer-padding {
-	padding-bottom: 60px;
+	padding-bottom: 30px;
+    background-color: rgb(124, 162, 233);
+    font-family: 'Montserrat', sans-serif;
+}
+.foot{
+    background-color: rgb(124, 162, 233);
 }
 
 .footer {
-	position: absolute;
+    padding: 3px;
 	text-align: center;
 	bottom: 0;
 	width: 100%;
